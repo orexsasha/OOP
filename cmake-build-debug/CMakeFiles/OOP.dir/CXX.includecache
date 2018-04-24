@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexsandr/Desktop/OOP/main.cpp
+massiv.h
+/Users/alexsandr/Desktop/OOP/massiv.h
+
+/Users/alexsandr/Desktop/OOP/massiv.h
+iostream
+-
+
